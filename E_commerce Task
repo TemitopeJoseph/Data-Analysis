@@ -1,0 +1,18 @@
+SQL PROJECT ON E_COMMERCE
+PROBLEM STATEMENT: DOES OUR 15% DISCOUNT COUNT?
+Analysing the effect of 15% discount on sales and costumer retention.
+The CEO says:
+Our recent January 15% discount campaign has driven a significant increase in sales volume, but I’m not convinced we're improving our profitability. I need you to analyze our sales and customer data to determine if this discount is leading to margin erosion or simply cannibalizing our full-price sales, and to see if we’re attracting the right customer segment. Based on your findings recommend strategic adjustment to ensure we drive sustainable growth. 
+SITUATION: The company recently ran a 15% discount campaign in January, which led to an increase in sales volume. However, the CEO is concerned that this may be negatively impacting profitability due to margin erosion or cannibalization of full-price sales. Additionally, there is uncertainty about whether the campaign is attracting the right customer segment for long-term growth.  
+TASK ;  Analyze the sales and customer data to determine:  
+1. Profitability impact: Assess whether the discount led to margin erosion.  
+2. Cannibalization effect: Evaluate if the discount is reducing full-price sales instead of generating new revenue.  
+3. Customer insights: Identify if the campaign is attracting the intended customer segment for sustainable growth.   
+ACTION: The Action covers the Analysis in the following Areas using SQL
+Perform sales trend analysis before, during, and after the campaign to understand revenue shifts.  
+Conduct margin analysis by comparing discounted vs. full-price sales profitability.  
+Use customer segmentation techniques to determine if new or existing customers drove the sales surge.  
+Assess repeat purchase behavior to see if discount-driven customers convert to full-price buyers.  
+Evaluate cross-product effect to check if discount sales led to increased purchases of other items. 
+RESULT  
+This analysis shows that a discount of 15% does not really affect the profitability of the product. Although it increases from the real-values customers as old customer tends to buy more of the discounted product but does not yield to new customer segment. 
